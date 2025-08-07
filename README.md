@@ -36,6 +36,4 @@ SmartBro isn’t just a toy—it's a versatile prototype tool for:
 * **Core Logic**: LangChain manages prompts, memory, and message types.
 * **AI Engine**: Powered by Groq LLMs, delivering fast and fluid responses.
 
----
 
-Would you like me to format this into a polished `README.md` file or help with adding badges, screenshots, or a Docker setup next?
